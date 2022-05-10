@@ -58,17 +58,11 @@ Here are some ideas to get you started:
   </kbd>
 </p>
 
-### Upcoming Projects:
+<!-- ### Upcoming Projects:
 
 <p align="center">
 
- - Personal website
- 
- - Discord Fitness Bot
-
- - Creative writing game
-
-</p>
+</p> -->
 
 ### Contact me:
 
